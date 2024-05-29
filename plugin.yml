@@ -1,0 +1,6 @@
+name: IdsItems
+main: Loader\Items
+version: 1.0
+author: WzyGee
+api: 5.0.0
+hotel: trivago
